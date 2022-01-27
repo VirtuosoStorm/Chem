@@ -38,16 +38,8 @@ aside.Group2   {
  width: 24%;
  height: 570px;
  position: relative;
- top: -36px;
+ top: -35px;
  right: 0px;
-}
-
-p.Leader  {
- color: #DCDCDC;
- font-family: Bungee;
- font-size: 2rem;
- text-align: center;
- margin: 0;
 }
 
 p.Members  {
@@ -63,7 +55,7 @@ p.grouplist  {
  font-family: Bungee;
  font-size: 1rem;
  text-align: left;
- line-height: 3rem;
+ line-height: 3.25rem;
  margin: 0px 0px 0px 32px;
 }
 
@@ -110,14 +102,6 @@ aside.Group2   {
  position: relative;
  top: 4px;
  right: 0px;
-}
-
-p.Leader  {
- color: #DCDCDC;
- font-family: Bungee;
- font-size: 2rem;
- text-align: center;
- margin: 0;
 }
 
 p.Members  {
@@ -184,14 +168,6 @@ aside.Group2   {
  right: 0px;
 }
 
-p.Leader  {
- color: #DCDCDC;
- font-family: Bungee;
- font-size: 2rem;
- text-align: center;
- margin: 0;
-}
-
 p.Members  {
  color: #DCDCDC;
  font-family: Bungee;
@@ -245,14 +221,6 @@ aside.Group2   {
  position: absolute;
  top: 500px;
  left: 75px;
-}
-
-p.Leader  {
- color: #DCDCDC;
- font-family: Bungee;
- font-size: 1.5rem;
- text-align: center;
- margin: 0;
 }
 
 p.Members  {
@@ -311,14 +279,6 @@ aside.Group2   {
  left: 60px;
 }
 
-p.Leader  {
- color: #DCDCDC;
- font-family: Bungee;
- font-size: 1.5rem;
- text-align: center;
- margin: 0;
-}
-
 p.Members  {
  color: #DCDCDC;
  font-family: Bungee;
@@ -375,14 +335,6 @@ aside.Group2   {
  left: 55px;
 }
 
-p.Leader  {
- color: #DCDCDC;
- font-family: Bungee;
- font-size: 1.5rem;
- text-align: center;
- margin: 0;
-}
-
 p.Members  {
  color: #DCDCDC;
  font-family: Bungee;
@@ -396,7 +348,7 @@ p.grouplist  {
  font-family: Bungee;
  font-size: 0.75rem;
  text-align: left;
- line-height: 2rem;
+ line-height: 1.75rem;
  margin: 0px 0px 0px 32px;
 }
 }
